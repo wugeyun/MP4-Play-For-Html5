@@ -4,7 +4,7 @@ MP4在线播放 Video.js Fot Html5
 
 ### 关键技术点
 
-js判断浏览器
+引入video.js
 
 ```markdown
 <link href="https://vjs.zencdn.net/7.5.4/video-js.css" rel="stylesheet">
