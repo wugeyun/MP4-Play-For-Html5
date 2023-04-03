@@ -20,12 +20,12 @@ MP4在线播放 Video.js Fot Html5
 <script src='https://vjs.zencdn.net/7.5.4/video.js'></script>
 ```
 
-具体案例 [test](https://hswddan.github.io/MP4-Play-For-Html5/test.html)
+具体案例 [test](https://wugeyun.github.io/MP4-Play-For-Html5/test.html)
 
 ### 项目地址
 
-GitHub地址 [MP4-Play-For-Html5](https://github.com/hswddan/MP4-Play-For-Html5)
+GitHub地址 [MP4-Play-For-Html5](https://github.com/wugeyun/MP4-Play-For-Html5)
 
 ### 我的GitHub项目
 
-欢迎关注我的开源项目 [hswddan](https://github.com/hswddan) 
+欢迎关注我的开源项目 [hswddan](https://github.com/wugeyun) 
